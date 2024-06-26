@@ -7,7 +7,7 @@ Redundant to have github, but keeping this around in case I need it somewhere el
 
 ## About Me
 
-Generalist engineer turned software developer with 12+ YOE and a passion for tackling challenging problems.
+Generalist engineer turned software developer with 10+ YOE and a passion for tackling challenging problems.
 
 ## Core Languages / Tools
 
